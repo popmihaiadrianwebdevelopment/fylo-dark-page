@@ -235,14 +235,11 @@ header p {
 }
 
 .center {
-    transform: translate(50%, 20%);
+
 }
 
 .special-box {
     margin: 3rem 0;
-    display: inline-block;
-    margin-bottom: -50%;
-    position: relative;
     z-index: 1;
 }
 
