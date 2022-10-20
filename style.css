@@ -282,7 +282,10 @@ header p {
 .align-start:first-child{
     margin:0;
 }
-
+.align-start {
+    align-items: center;
+    justify-content: center;
+}
 
 
 
